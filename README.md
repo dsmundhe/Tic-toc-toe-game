@@ -1,2 +1,2 @@
-# Tic-toc-toe-game
+# Tic-tac-toe-game
 using html ,css and java script
